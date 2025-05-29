@@ -29,7 +29,7 @@ This project is a serverless Text-to-Speech (TTS) system built using **AWS Lambd
 ### 1. Create an S3 Bucket
 
 - Go to the [S3 Console](https://console.aws.amazon.com/s3/)
-- Create a bucket named (e.g., `polly-audio-output`)
+- Create a bucket named (e.g., `awspollys3bybadarqa`)
 - Optional: Disable public access if security is required
 
 ---
